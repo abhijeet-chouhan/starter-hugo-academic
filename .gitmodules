@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/abhijeet-chouhan/abhijeet-chouhan.github.io.git
+	branch = master
