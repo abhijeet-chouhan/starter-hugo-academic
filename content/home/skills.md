@@ -24,7 +24,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Mathematics
-- description: 10%
+- description: 5%
   icon: camera-retro
   icon_pack: fas
   name: Photography
